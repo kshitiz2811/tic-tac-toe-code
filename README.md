@@ -1,4 +1,3 @@
-# tic-tac-toe-code
 def sum(a, b, c ):
     return a + b + c
 def printboard(xState, zState):
